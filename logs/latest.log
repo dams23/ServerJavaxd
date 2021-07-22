@@ -1,0 +1,201 @@
+[15:04:46] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:04:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:04:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:04:47] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:04:47] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:04:47] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:04:47] [main/INFO]: Reloading ResourceManager: Default
+[15:04:48] [Worker-Main-13/INFO]: Loaded 7 recipes
+[15:04:48] [Worker-Main-13/INFO]: Loaded 1137 advancements
+[15:04:50] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[15:04:50] [Server thread/INFO]: Loading properties
+[15:04:50] [Server thread/INFO]: Default game type: SURVIVAL
+[15:04:50] [Server thread/INFO]: Generating keypair
+[15:04:50] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Controlador no válido
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:271) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:282) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:343) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:297) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:339) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:178) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at aas$1.run(SourceFile:101) [server.jar:?]
+[15:04:50] [Server thread/INFO]: Starting Minecraft server on 26.98.172.96:25565
+[15:04:50] [Server thread/INFO]: Using default channel type
+[15:04:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:04:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:04:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:04:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:04:51] [Server thread/INFO]: Preparing level "world"
+[15:04:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:04:51] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[15:04:51] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[15:04:52] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[15:04:52] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[15:04:53] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[15:04:53] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[15:04:54] [Worker-Main-14/INFO]: Preparing spawn area: 4%
+[15:04:54] [Worker-Main-8/INFO]: Preparing spawn area: 10%
+[15:04:57] [Worker-Main-8/INFO]: Preparing spawn area: 11%
+[15:04:57] [Worker-Main-11/INFO]: Preparing spawn area: 11%
+[15:04:57] [Worker-Main-11/INFO]: Preparing spawn area: 11%
+[15:04:57] [Worker-Main-8/INFO]: Preparing spawn area: 11%
+[15:04:57] [Worker-Main-10/INFO]: Preparing spawn area: 11%
+[15:04:57] [Worker-Main-11/INFO]: Preparing spawn area: 12%
+[15:04:58] [Worker-Main-9/INFO]: Preparing spawn area: 61%
+[15:04:58] [Server thread/INFO]: Time elapsed: 7274 ms
+[15:04:58] [Server thread/INFO]: Done (7.413s)! For help, type "help"
+[15:05:25] [Server thread/INFO]: Arkantos2310[/26.98.172.96:50373] logged in with entity id 141 at (-240.20492975666093, 63.0, -26.600313110491477)
+[15:05:25] [Server thread/INFO]: Arkantos2310 joined the game
+[15:10:34] [Server thread/INFO]: ASDFll[/26.32.191.67:61068] logged in with entity id 1035 at (-101.87725585212648, 61.0, -19.235925806581875)
+[15:10:34] [Server thread/INFO]: ASDFll joined the game
+[15:13:26] [Server thread/INFO]: Decim12[/26.27.183.211:62193] logged in with entity id 1757 at (-3206.9451564500596, 11.0, 1.8933478095246106)
+[15:13:26] [Server thread/INFO]: Decim12 joined the game
+[15:13:31] [Server thread/INFO]: Villager bjr['Villager'/1883, l='ServerLevel[world]', x=-3278.70, y=80.00, z=29.62] died, message: 'Villager was slain by Zombie'
+[15:13:38] [Server thread/INFO]: Villager bjr['Villager'/1884, l='ServerLevel[world]', x=-3278.30, y=80.00, z=30.70] died, message: 'Villager was slain by Zombie'
+[15:19:06] [Server thread/INFO]: magroale[/26.92.234.156:64168] logged in with entity id 4248 at (-162.48167719500057, 63.0, -160.38094747808395)
+[15:19:06] [Server thread/INFO]: magroale joined the game
+[15:30:49] [Server thread/INFO]: Arkantos2310 has made the advancement [Isn't It Iron Pick]
+[15:44:08] [Server thread/INFO]: magroale was shot by Skeleton
+[15:47:11] [Server thread/INFO]: Arkantos2310 has made the advancement [Diamonds!]
+[15:48:29] [Server thread/INFO]: ASDFll was slain by Zombie
+[15:52:44] [Server thread/INFO]: ASDFll was slain by Zombie
+[15:58:26] [Server thread/INFO]: Arkantos2310 lost connection: Disconnected
+[15:58:26] [Server thread/INFO]: Arkantos2310 left the game
+[16:08:13] [Server thread/INFO]: ASDFll has made the advancement [We Need to Go Deeper]
+[16:12:56] [Server thread/INFO]: magroale has made the advancement [The Cutest Predator]
+[16:16:51] [Server thread/INFO]: ASDFll has made the advancement [Enchanter]
+[16:21:54] [Server thread/INFO]: Arkantos2310[/26.98.172.96:51211] logged in with entity id 34006 at (-240.1551490107912, 63.0, -26.820104232723576)
+[16:21:54] [Server thread/INFO]: Arkantos2310 joined the game
+[16:33:59] [Server thread/INFO]: magroale lost connection: Disconnected
+[16:33:59] [Server thread/INFO]: magroale left the game
+[16:50:23] [Server thread/INFO]: Arkantos2310 was shot by Skeleton
+[16:57:04] [Server thread/WARN]: Boat (vehicle of ASDFll) moved too quickly! -10.027069308205,0.0,-1.618887548054218
+[16:57:33] [Server thread/INFO]: Villager bjr['Villager'/49248, l='ServerLevel[world]', x=-3084.84, y=69.00, z=78.38] died, message: 'Villager suffocated in a wall'
+[16:59:45] [Server thread/WARN]: Boat (vehicle of ASDFll) moved too quickly! 8.454510941799526,0.0,5.813601044142587
+[16:59:45] [Server thread/WARN]: Boat (vehicle of ASDFll) moved too quickly! 8.823549381825046,0.0,5.771180573626054
+[16:59:45] [Server thread/WARN]: Boat (vehicle of ASDFll) moved too quickly! 9.194479619054732,0.0,5.723260626006805
+[16:59:45] [Server thread/WARN]: Boat (vehicle of ASDFll) moved too quickly! 9.567484116133869,0.0,5.672013372421532
+[17:01:38] [Server thread/INFO]: Villager bjr['Villager'/24028, l='ServerLevel[world]', x=-3136.52, y=73.00, z=37.61] died, message: 'Villager suffocated in a wall'
+[17:02:35] [Server thread/INFO]: Arkantos2310 was shot by Skeleton
+[17:03:25] [Server thread/INFO]: Villager bjr['Villager'/51238, l='ServerLevel[world]', x=-3171.51, y=70.00, z=45.38] died, message: 'Villager suffocated in a wall'
+[17:06:42] [Server thread/INFO]: Villager bjr['Fletcher'/61152, l='ServerLevel[world]', x=-3291.70, y=76.00, z=15.50] died, message: 'Fletcher was slain by Zombie'
+[17:08:13] [Server thread/INFO]: Arkantos2310 has made the advancement [A Seedy Place]
+[17:23:02] [Server thread/INFO]: Arkantos2310 has made the advancement [Not Today, Thank You]
+[17:23:44] [Server thread/INFO]: Decim12 was slain by Zombie
+[17:26:51] [Server thread/INFO]: Decim12 lost connection: Disconnected
+[17:26:51] [Server thread/INFO]: Decim12 left the game
+[17:33:40] [Server thread/INFO]: Arkantos2310 has made the advancement [Voluntary Exile]
+[17:33:45] [Server thread/INFO]: Arkantos2310 was shot by Pillager
+[17:40:03] [Server thread/INFO]: Arkantos2310 has made the advancement [Ol' Betsy]
+[17:44:56] [Server thread/INFO]: Arkantos2310 lost connection: Disconnected
+[17:44:56] [Server thread/INFO]: Arkantos2310 left the game
+[17:47:10] [Server thread/INFO]: Decim12[/26.27.183.211:58173] logged in with entity id 82068 at (-3168.614595951715, 74.0, 13.224516206412433)
+[17:47:10] [Server thread/INFO]: Decim12 joined the game
+[17:48:04] [Server thread/INFO]: Arkantos2310[/26.98.172.96:49345] logged in with entity id 82527 at (-242.2912911849954, 63.0, -29.733252534473444)
+[17:48:04] [Server thread/INFO]: Arkantos2310 joined the game
+[17:55:01] [Server thread/INFO]: Decim12 has made the advancement [Ice Bucket Challenge]
+[18:00:56] [Server thread/INFO]: magroale[/26.92.234.156:51571] logged in with entity id 87930 at (-161.5237587789152, 63.0, -158.95184905256502)
+[18:00:56] [Server thread/INFO]: magroale joined the game
+[18:08:26] [Server thread/INFO]: Decim12 has made the advancement [We Need to Go Deeper]
+[18:09:48] [Server thread/INFO]: <Decim12> -396, -1
+[18:13:47] [Server thread/WARN]: magroale moved too quickly! -10.085005059258009,-1.0,0.6815822215301779
+[18:16:51] [Server thread/INFO]: Arkantos2310 has made the advancement [Best Friends Forever]
+[18:19:30] [Server thread/WARN]: magroale moved too quickly! -9.363192839901302,3.975575911786308,-0.36140692087330706
+[18:21:02] [Server thread/INFO]: magroale was stung to death
+[18:30:05] [Server thread/INFO]: ASDFll lost connection: Disconnected
+[18:30:05] [Server thread/INFO]: ASDFll left the game
+[18:35:28] [Server thread/INFO]: magroale has made the advancement [The Parrots and the Bats]
+[18:40:47] [Server thread/INFO]: Arkantos2310 lost connection: Disconnected
+[18:40:47] [Server thread/INFO]: Arkantos2310 left the game
+[18:41:50] [Server thread/INFO]: magroale has made the advancement [Ice Bucket Challenge]
+[18:42:36] [Server thread/INFO]: magroale tried to swim in lava
+[18:43:55] [Server thread/WARN]: magroale moved too quickly! 1.0770794458954924,0.5,-9.992885060487993
+[18:53:24] [Server thread/INFO]: ASDFll[/26.32.191.67:61447] logged in with entity id 110065 at (-114.45646686654217, 56.0, -37.938734602259956)
+[18:53:24] [Server thread/INFO]: ASDFll joined the game
+[18:54:24] [Server thread/INFO]: Arkantos2310[/26.98.172.96:57371] logged in with entity id 110617 at (-239.29108625620123, 63.0, -28.39330367121551)
+[18:54:24] [Server thread/INFO]: Arkantos2310 joined the game
+[19:00:40] [Server thread/INFO]: Arkantos2310 lost connection: Disconnected
+[19:00:40] [Server thread/INFO]: Arkantos2310 left the game
+[19:01:01] [Server thread/INFO]: Decim12 lost connection: Disconnected
+[19:01:01] [Server thread/INFO]: Decim12 left the game
+[19:04:48] [Server thread/INFO]: Bikkowo[/26.118.13.178:63162] logged in with entity id 114573 at (-265.5, 65.0, -157.5)
+[19:04:48] [Server thread/INFO]: Bikkowo joined the game
+[19:05:03] [Server thread/INFO]: Bikkowo lost connection: Timed out
+[19:05:03] [Server thread/INFO]: Bikkowo left the game
+[19:05:03] [Server thread/WARN]: handleDisconnection() called twice
+[19:05:10] [Server thread/INFO]: Bikkowo[/26.118.13.178:63169] logged in with entity id 114677 at (-265.5, 65.0, -157.5)
+[19:05:10] [Server thread/INFO]: Bikkowo joined the game
+[19:05:32] [Server thread/INFO]: Bikkowo lost connection: Timed out
+[19:05:32] [Server thread/INFO]: Bikkowo left the game
+[19:05:40] [Server thread/INFO]: Bikkowo[/26.118.13.178:63172] logged in with entity id 114754 at (-265.5, 65.0, -157.5)
+[19:05:40] [Server thread/INFO]: Bikkowo joined the game
+[19:06:57] [Server thread/WARN]: Bikkowo moved too quickly! 9.072431502306983,0.0,4.4362067933485605
+[19:08:22] [Server thread/INFO]: Decim12[/26.27.183.211:52530] logged in with entity id 115230 at (-3043.826085478798, 66.0, 6.128871389452229)
+[19:08:22] [Server thread/INFO]: Decim12 joined the game
+[19:09:31] [Server thread/INFO]: Seckendorff[/26.21.218.129:49311] logged in with entity id 115959 at (-248.5, 69.0, -161.5)
+[19:09:31] [Server thread/INFO]: Seckendorff joined the game
+[19:09:46] [Server thread/INFO]: Seckendorff lost connection: Timed out
+[19:09:46] [Server thread/INFO]: Seckendorff left the game
+[19:09:55] [Server thread/INFO]: Seckendorff[/26.21.218.129:49333] logged in with entity id 116120 at (-248.5, 69.0, -161.5)
+[19:09:55] [Server thread/INFO]: Seckendorff joined the game
+[19:09:59] [Server thread/INFO]: Seckendorff lost connection: Disconnected
+[19:09:59] [Server thread/INFO]: Seckendorff left the game
+[19:10:06] [Server thread/INFO]: Seckendorff[/26.21.218.129:49342] logged in with entity id 116195 at (-248.5, 69.0, -161.5)
+[19:10:06] [Server thread/INFO]: Seckendorff joined the game
+[19:10:07] [Server thread/WARN]: ASDFll moved too quickly! 0.659795070381648,0.9755759117863079,-10.012797689783156
+[19:10:21] [Server thread/INFO]: Seckendorff lost connection: Timed out
+[19:10:21] [Server thread/INFO]: Seckendorff left the game
+[19:10:37] [Server thread/WARN]: ASDFll moved too quickly! -7.054190730027614,3.0,-6.637462841936653
+[19:10:50] [Server thread/INFO]: Seckendorff[/26.21.218.129:49369] logged in with entity id 116520 at (-248.5, 69.0, -161.5)
+[19:10:50] [Server thread/INFO]: Seckendorff joined the game
+[19:10:58] [Server thread/WARN]: ASDFll moved too quickly! -7.077220393286495,1.5244240882136921,7.107479077522186
+[19:11:06] [Server thread/INFO]: Seckendorff lost connection: Timed out
+[19:11:06] [Server thread/INFO]: Seckendorff left the game
+[19:11:15] [Server thread/INFO]: Seckendorff[/26.21.218.129:49384] logged in with entity id 116657 at (-248.5, 69.0, -161.5)
+[19:11:15] [Server thread/INFO]: Seckendorff joined the game
+[19:11:30] [Server thread/INFO]: Seckendorff lost connection: Timed out
+[19:11:30] [Server thread/INFO]: Seckendorff left the game
+[19:11:42] [Server thread/WARN]: Bikkowo moved too quickly! -8.597875906393483,0.0,5.329572899236922
+[19:11:44] [Server thread/WARN]: ASDFll moved too quickly! -3.9740169178916744,0.0,9.308417997840166
+[19:12:36] [Server thread/WARN]: ASDFll moved too quickly! -6.018766646963087,1.0,8.087036163395538
+[19:13:04] [Server thread/WARN]: ASDFll moved too quickly! -7.571734959958775,0.2336320060424839,6.569220353852799
+[19:13:05] [Server thread/WARN]: Bikkowo moved too quickly! -2.6258529639582946,-1.0,9.660968165707658
+[19:13:23] [Server thread/WARN]: ASDFll moved too quickly! 9.573411085096922,0.0,3.424599620748978
+[19:13:43] [Server thread/WARN]: Bikkowo moved too quickly! 9.906669098253502,-0.6413679939575232,-1.5052649160287572
+[19:13:46] [Server thread/WARN]: ASDFll moved too quickly! -9.570281620938374,0.0,-3.0083245195470827
+[19:13:56] [Server thread/INFO]: Arkantos2310[/26.98.172.96:53571] logged in with entity id 117658 at (-242.69998142912777, 63.0, -41.304258183744615)
+[19:13:56] [Server thread/INFO]: Arkantos2310 joined the game
+[19:15:53] [Server thread/INFO]: Arkantos2310 lost connection: Disconnected
+[19:15:53] [Server thread/INFO]: Arkantos2310 left the game
+[19:15:56] [Server thread/INFO]: Decim12 lost connection: Disconnected
+[19:15:56] [Server thread/INFO]: Decim12 left the game
+[19:15:57] [Server thread/INFO]: Bikkowo lost connection: Disconnected
+[19:15:57] [Server thread/INFO]: Bikkowo left the game
+[19:15:59] [Server thread/INFO]: ASDFll lost connection: Disconnected
+[19:15:59] [Server thread/INFO]: ASDFll left the game
+[19:16:50] [Server thread/INFO]: Arkantos2310[/26.98.172.96:49309] logged in with entity id 118799 at (-248.9840020258686, 63.5, -39.74874759977294)
+[19:16:50] [Server thread/INFO]: Arkantos2310 joined the game
+[19:17:19] [Server thread/INFO]: magroale lost connection: Disconnected
+[19:17:19] [Server thread/INFO]: magroale left the game
+[19:17:27] [Server thread/INFO]: Decim12[/26.27.183.211:64617] logged in with entity id 118958 at (-3126.8826083018034, 77.0, 30.089831960810873)
+[19:17:27] [Server thread/INFO]: Decim12 joined the game
+[19:17:27] [Server thread/INFO]: Arkantos2310 lost connection: Disconnected
+[19:17:27] [Server thread/INFO]: Arkantos2310 left the game
+[19:17:58] [Server thread/INFO]: Decim12 lost connection: Disconnected
+[19:17:58] [Server thread/INFO]: Decim12 left the game
+[19:18:01] [Server thread/INFO]: Stopping server
+[19:18:01] [Server thread/INFO]: Saving players
+[19:18:01] [Server thread/INFO]: Saving worlds
+[19:18:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:18:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:18:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:18:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:18:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:18:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:18:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
